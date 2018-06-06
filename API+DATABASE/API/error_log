@@ -1,0 +1,108 @@
+[28-Nov-2017 21:57:25 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/daresori/public_html/android/daftar.php on line 8
+[28-Nov-2017 22:09:03 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/daresori/public_html/android/daftar.php on line 13
+[28-Nov-2017 22:09:03 Asia/Jakarta] PHP Notice:  Undefined index: pass in /home/daresori/public_html/android/daftar.php on line 14
+[28-Nov-2017 22:09:03 Asia/Jakarta] PHP Notice:  Undefined index: operator in /home/daresori/public_html/android/daftar.php on line 15
+[28-Nov-2017 22:09:03 Asia/Jakarta] PHP Notice:  Undefined index: email in /home/daresori/public_html/android/daftar.php on line 16
+[28-Nov-2017 22:09:03 Asia/Jakarta] PHP Notice:  Undefined index: telp in /home/daresori/public_html/android/daftar.php on line 17
+[28-Nov-2017 22:09:06 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/daresori/public_html/android/edit_profil.php on line 12
+[28-Nov-2017 22:09:06 Asia/Jakarta] PHP Notice:  Undefined index: pass in /home/daresori/public_html/android/edit_profil.php on line 13
+[28-Nov-2017 22:09:06 Asia/Jakarta] PHP Notice:  Undefined index: operator in /home/daresori/public_html/android/edit_profil.php on line 14
+[28-Nov-2017 22:09:06 Asia/Jakarta] PHP Notice:  Undefined index: email in /home/daresori/public_html/android/edit_profil.php on line 15
+[28-Nov-2017 22:09:06 Asia/Jakarta] PHP Notice:  Undefined index: telp in /home/daresori/public_html/android/edit_profil.php on line 16
+[28-Nov-2017 22:09:09 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/daresori/public_html/android/get_profil.php on line 3
+[28-Nov-2017 22:09:14 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/daresori/public_html/android/list_pesanan.php on line 3
+[28-Nov-2017 22:09:19 Asia/Jakarta] PHP Notice:  Undefined index: operator in /home/daresori/public_html/android/list_pesanan_operator.php on line 3
+[28-Nov-2017 22:09:20 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/daresori/public_html/android/login - Copy.php on line 8
+[28-Nov-2017 22:09:24 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/daresori/public_html/android/login.php on line 11
+[28-Nov-2017 22:09:24 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/daresori/public_html/android/login.php on line 12
+[28-Nov-2017 22:09:24 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/daresori/public_html/android/login.php on line 13
+[28-Nov-2017 22:09:27 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/daresori/public_html/android/print.php on line 11
+[28-Nov-2017 22:09:27 Asia/Jakarta] PHP Notice:  Undefined index: file in /home/daresori/public_html/android/print.php on line 12
+[28-Nov-2017 22:09:27 Asia/Jakarta] PHP Notice:  Undefined index: operator in /home/daresori/public_html/android/print.php on line 13
+[28-Nov-2017 22:09:27 Asia/Jakarta] PHP Notice:  Undefined index: pengambilan in /home/daresori/public_html/android/print.php on line 14
+[28-Nov-2017 22:09:27 Asia/Jakarta] PHP Notice:  Undefined index: catatan in /home/daresori/public_html/android/print.php on line 15
+[28-Nov-2017 22:09:28 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/daresori/public_html/android/select.php on line 12
+[28-Nov-2017 22:09:28 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/daresori/public_html/android/select.php on line 15
+[28-Nov-2017 22:09:28 Asia/Jakarta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daresori/public_html/android/select.php on line 21
+[02-Dec-2017 20:06:29 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/daresori/public_html/android/list_pesanan.php on line 3
+[02-Dec-2017 20:06:45 Asia/Jakarta] PHP Notice:  Undefined index: operator in /home/daresori/public_html/android/list_pesanan_operator.php on line 3
+[02-Dec-2017 21:27:16 Asia/Jakarta] PHP Notice:  Undefined index: operator in /home/daresori/public_html/android/proses_pesanan.php on line 15
+[02-Dec-2017 21:27:22 Asia/Jakarta] PHP Notice:  Undefined index: operator in /home/daresori/public_html/android/proses_pesanan.php on line 15
+[02-Dec-2017 21:27:26 Asia/Jakarta] PHP Notice:  Undefined index: operator in /home/daresori/public_html/android/proses_pesanan.php on line 15
+[02-Dec-2017 22:46:34 Asia/Jakarta] PHP Notice:  Undefined index: id_print in /home/daresori/public_html/android/get_status_print.php on line 3
+[03-Dec-2017 08:43:13 Asia/Jakarta] PHP Notice:  Undefined index: operator in /home/daresori/public_html/android/list_pesanan_operator.php on line 3
+[03-Dec-2017 08:43:20 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/daresori/public_html/android/list_pesanan.php on line 3
+[03-Dec-2017 08:45:16 Asia/Jakarta] PHP Notice:  Undefined index: id_print in /home/daresori/public_html/android/get_status_print.php on line 3
+[03-Dec-2017 09:03:31 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/daresori/public_html/android/get_operator.php on line 3
+[03-Dec-2017 09:03:31 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/daresori/public_html/android/get_operator.php on line 6
+[03-Dec-2017 09:04:23 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/daresori/public_html/android/get_operator.php on line 3
+[03-Dec-2017 09:09:03 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/daresori/public_html/android/get_operator.php on line 3
+[03-Dec-2017 09:10:22 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/daresori/public_html/android/get_operator.php on line 3
+[03-Dec-2017 09:11:39 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/daresori/public_html/android/get_operator.php on line 3
+[03-Dec-2017 09:14:03 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/daresori/public_html/android/get_operator.php on line 3
+[03-Dec-2017 09:26:45 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/daresori/public_html/android/get_operator.php on line 3
+[03-Dec-2017 11:26:00 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/daresori/public_html/android/daftar.php on line 13
+[03-Dec-2017 11:26:00 Asia/Jakarta] PHP Notice:  Undefined index: pass in /home/daresori/public_html/android/daftar.php on line 14
+[03-Dec-2017 11:26:00 Asia/Jakarta] PHP Notice:  Undefined index: operator in /home/daresori/public_html/android/daftar.php on line 15
+[03-Dec-2017 11:26:00 Asia/Jakarta] PHP Notice:  Undefined index: email in /home/daresori/public_html/android/daftar.php on line 16
+[03-Dec-2017 11:26:00 Asia/Jakarta] PHP Notice:  Undefined index: telp in /home/daresori/public_html/android/daftar.php on line 17
+[03-Dec-2017 11:26:02 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/daresori/public_html/android/edit_profil.php on line 12
+[03-Dec-2017 11:26:02 Asia/Jakarta] PHP Notice:  Undefined index: pass in /home/daresori/public_html/android/edit_profil.php on line 13
+[03-Dec-2017 11:26:02 Asia/Jakarta] PHP Notice:  Undefined index: email in /home/daresori/public_html/android/edit_profil.php on line 14
+[03-Dec-2017 11:26:02 Asia/Jakarta] PHP Notice:  Undefined index: telp in /home/daresori/public_html/android/edit_profil.php on line 15
+[03-Dec-2017 11:26:05 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/daresori/public_html/android/get_operator.php on line 3
+[03-Dec-2017 11:26:10 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/daresori/public_html/android/get_profil.php on line 3
+[03-Dec-2017 11:26:16 Asia/Jakarta] PHP Notice:  Undefined index: id_print in /home/daresori/public_html/android/get_status_print.php on line 3
+[03-Dec-2017 11:26:21 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/daresori/public_html/android/list_pesanan.php on line 3
+[03-Dec-2017 11:26:24 Asia/Jakarta] PHP Notice:  Undefined index: operator in /home/daresori/public_html/android/list_pesanan_operator.php on line 3
+[03-Dec-2017 11:26:27 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/daresori/public_html/android/list_pesanan.php on line 3
+[03-Dec-2017 11:26:30 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/daresori/public_html/android/login.php on line 11
+[03-Dec-2017 11:26:30 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/daresori/public_html/android/login.php on line 12
+[03-Dec-2017 11:26:30 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/daresori/public_html/android/login.php on line 13
+[03-Dec-2017 11:26:34 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/daresori/public_html/android/print.php on line 11
+[03-Dec-2017 11:26:34 Asia/Jakarta] PHP Notice:  Undefined index: file in /home/daresori/public_html/android/print.php on line 12
+[03-Dec-2017 11:26:34 Asia/Jakarta] PHP Notice:  Undefined index: operator in /home/daresori/public_html/android/print.php on line 13
+[03-Dec-2017 11:26:34 Asia/Jakarta] PHP Notice:  Undefined index: pengambilan in /home/daresori/public_html/android/print.php on line 14
+[03-Dec-2017 11:26:34 Asia/Jakarta] PHP Notice:  Undefined index: catatan in /home/daresori/public_html/android/print.php on line 15
+[03-Dec-2017 11:26:36 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/daresori/public_html/android/select.php on line 12
+[03-Dec-2017 11:26:36 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/daresori/public_html/android/select.php on line 15
+[03-Dec-2017 11:26:36 Asia/Jakarta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daresori/public_html/android/select.php on line 21
+[03-Dec-2017 11:26:42 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/daresori/public_html/android/proses_pesanan.php on line 13
+[03-Dec-2017 11:26:42 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/daresori/public_html/android/proses_pesanan.php on line 14
+[03-Dec-2017 11:26:42 Asia/Jakarta] PHP Notice:  Undefined index: operator in /home/daresori/public_html/android/proses_pesanan.php on line 15
+[03-Dec-2017 18:23:06 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/daresori/public_html/android/get_operator.php on line 3
+[03-Dec-2017 18:24:43 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/daresori/public_html/android/get_operator.php on line 3
+[03-Dec-2017 20:16:33 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/daresori/public_html/android/list_pesanan.php on line 3
+[05-Dec-2017 09:26:31 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/daresori/public_html/android/get_operator.php on line 3
+[05-Dec-2017 18:58:58 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/daresori/public_html/android/daftar.php on line 13
+[05-Dec-2017 18:58:58 Asia/Jakarta] PHP Notice:  Undefined index: pass in /home/daresori/public_html/android/daftar.php on line 14
+[05-Dec-2017 18:58:58 Asia/Jakarta] PHP Notice:  Undefined index: operator in /home/daresori/public_html/android/daftar.php on line 15
+[05-Dec-2017 18:58:58 Asia/Jakarta] PHP Notice:  Undefined index: email in /home/daresori/public_html/android/daftar.php on line 16
+[05-Dec-2017 18:58:58 Asia/Jakarta] PHP Notice:  Undefined index: telp in /home/daresori/public_html/android/daftar.php on line 17
+[05-Dec-2017 18:59:02 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/daresori/public_html/android/edit_profil.php on line 12
+[05-Dec-2017 18:59:02 Asia/Jakarta] PHP Notice:  Undefined index: pass in /home/daresori/public_html/android/edit_profil.php on line 13
+[05-Dec-2017 18:59:02 Asia/Jakarta] PHP Notice:  Undefined index: email in /home/daresori/public_html/android/edit_profil.php on line 14
+[05-Dec-2017 18:59:02 Asia/Jakarta] PHP Notice:  Undefined index: telp in /home/daresori/public_html/android/edit_profil.php on line 15
+[05-Dec-2017 18:59:05 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/daresori/public_html/android/get_operator.php on line 3
+[05-Dec-2017 18:59:12 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/daresori/public_html/android/get_profil.php on line 3
+[05-Dec-2017 18:59:17 Asia/Jakarta] PHP Notice:  Undefined index: id_print in /home/daresori/public_html/android/get_status_print.php on line 3
+[05-Dec-2017 18:59:27 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/daresori/public_html/android/list_pesanan.php on line 3
+[05-Dec-2017 18:59:39 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/daresori/public_html/android/select.php on line 12
+[05-Dec-2017 18:59:39 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/daresori/public_html/android/select.php on line 15
+[05-Dec-2017 18:59:39 Asia/Jakarta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daresori/public_html/android/select.php on line 21
+[05-Dec-2017 20:32:58 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/daresori/public_html/android/login.php on line 11
+[05-Dec-2017 20:32:58 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/daresori/public_html/android/login.php on line 12
+[05-Dec-2017 20:32:58 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/daresori/public_html/android/login.php on line 13
+[05-Dec-2017 20:33:02 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/daresori/public_html/android/login - Copy.php on line 8
+[05-Dec-2017 20:58:27 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/daresori/public_html/android/get_operator.php on line 3
+[05-Dec-2017 21:01:37 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/daresori/public_html/android/get_operator.php on line 3
+[05-Dec-2017 21:03:33 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/daresori/public_html/android/get_operator.php on line 3
+[05-Dec-2017 21:04:33 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/daresori/public_html/android/get_operator.php on line 3
+[05-Dec-2017 21:05:19 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/daresori/public_html/android/get_operator.php on line 3
+[05-Dec-2017 21:05:28 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/daresori/public_html/android/get_operator.php on line 3
+[05-Dec-2017 21:27:19 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/daresori/public_html/android/get_operator.php on line 3
+[05-Dec-2017 21:31:12 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/daresori/public_html/android/get_operator.php on line 3
+[05-Dec-2017 21:32:28 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/daresori/public_html/android/get_operator.php on line 3
+[05-Dec-2017 21:33:34 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/daresori/public_html/android/get_operator.php on line 3
+[05-Dec-2017 21:34:36 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/daresori/public_html/android/get_operator.php on line 3
+[05-Dec-2017 21:35:42 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/daresori/public_html/android/get_operator.php on line 3
